@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yummy</string>
+    <string name="title_activity_recommend">Recommend</string>
+    <string name="title_activity_google_maps">Map</string>
+</resources>
